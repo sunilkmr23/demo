@@ -1,0 +1,13 @@
+Currency Exchange Service
+- 
+
+http://34.42.199.232:8000/currency-exchange/from/USD/to/INR
+
+Currency Conversion Service
+- http://
+
+http://34.118.207.197:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
+
+http://35.223.40.231:8000/actuator/health/
+http://35.223.40.231:8000/actuator/health/liveness
+http://35.223.40.231:8000/actuator/health/readiness
